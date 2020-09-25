@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shadi.com App</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="acceptMsg">Member Accept your profile</string>
+    <string name="declineMsg">Member Decline your profile</string>
+</resources>
